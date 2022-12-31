@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aashna</h1>
 <h3 align="center">A Learner</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/111043457/210130013-2b63d1fd-f5d2-4c66-96f8-f0e897f67774.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/111043457/210130463-100991a2-6ef4-4f9b-b5db-209e07ad61d9.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-bs-h&label=Profile%20views&color=0e75b6&style=flat" alt="a-bs-h" /> </p>
 
 - 🔭 I’m interested in Mathematics, Programming and Analytics.
 - 🌱 I’m currently learning deriving insights from data.
 - 👯 I’m looking to collaborate on Projects where I can implement my skills, learn and grow.
 - ⚡ Fun fact: 🤔Hmm.. will get back on this later
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
