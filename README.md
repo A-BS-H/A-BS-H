@@ -6,7 +6,6 @@
 - 🔭 I’m interested in Mathematics, Programming and Analytics.
 - 🌱 I’m currently learning deriving insights from data.
 - 👯 I’m looking to collaborate on Projects where I can implement my skills, learn and grow.
-- ⚡ Fun fact: 🤔Hmm.. will get back on this later
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
